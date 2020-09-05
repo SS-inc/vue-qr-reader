@@ -50,6 +50,10 @@ export default {
     responsive: {
       type: Boolean,
       default: false
+    },
+    active: {
+      type: Boolean,
+      defalut: false
     }
   },
   data() {
